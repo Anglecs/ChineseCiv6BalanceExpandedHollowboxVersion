@@ -26,6 +26,7 @@ def get_mod_folders():
         'Europe/Bismark',
         'Europe/Finland',
         'Europe/GaulVercingetorix',
+        'Europe/PolandStanislaw',
         'Europe/Switzerland',
         'Mediterranean/MacedonOlympias',
         'Mediterranean/PhoeniciaAhiram',

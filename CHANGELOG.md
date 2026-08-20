@@ -53,3 +53,12 @@
 | `CHANGELOG.md` | 新增（本文件） |
 
 > 备注：`lang/chinese.xml` 等本地化由 CCB 平衡 Mod 提供；`CCBExpanded.modinfo.bak` 为本地备份，不入库。
+
+---
+
+## 2026-08-20｜新增「波兰·斯坦尼斯瓦夫」内容本体
+
+- `Europe/PolandStanislaw/`（自 BBG_EX 复制，含 Core / ArtDefs / Assets / Platforms / Textures / XLPs）
+- `modinfoCombiner.py` 的 `get_mod_folders()` 新增 `Europe/PolandStanislaw`
+- 重新生成 `CCBExpanded.modinfo`（XML 校验通过）
+- 平衡层与中文本地化见 CCB 仓库 CHANGELOG（P2-8）
